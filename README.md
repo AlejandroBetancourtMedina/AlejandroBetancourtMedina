@@ -17,14 +17,45 @@
 <div>
   <h2>👋 <strong>Algunas cosas sobre Mí</strong></h2>
     <ul>
-      <li>Desarrollador Backend.</li>
+      <li>Realize mi práctica profesional como Desarrollador Backend en GLOBANT, Chile .</li>
+      <li>Me gusta el desarrollador Backend.</li>
       <li>Me gusta Java con el framework de Spring Boot.</li>
       <li>He podido trabajar en gran parte con bases de datos relacionales, la que mas he usado es PostgreSQL.</li>
-      <li>Realize mi práctica profesional como Desarrollador Backend en GLOBANT, Chile .</li>
       <li>Estudiante de Ingenieria Informatica</li>
       <li>Estudiante de "Oracle Next Education -G7", Especializacion Backend Java Spring Boot</li>
     </ul>
 </div>
+
+<div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-%23F7DF1C?style=flat&logo=java&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%233C3E3F?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/Bootstrap-%237B4F6D?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Scrum-%23D50032?style=flat&logo=scrum&logoColor=white" alt="Scrum"/>
+  </p>
+</div>
+
+<div>
+  <p align="center">
+    <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBetancourtMedina&layout=compact />
+  </p>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 
 
