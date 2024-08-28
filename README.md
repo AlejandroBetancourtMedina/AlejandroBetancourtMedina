@@ -5,7 +5,7 @@
   </br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tuperfil" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandro-betancourt-medina-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://wa.me/56942254565" target="_blank">
