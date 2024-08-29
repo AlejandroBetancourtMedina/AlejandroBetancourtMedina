@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Download_CV-%23FF5722.svg?style=for-the-badge&logo=pdf&logoColor=white" alt="Download CV">
   </a>
 <a href="mailto:a.betancourt92@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+    <img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
 </a>
 
 </a>
