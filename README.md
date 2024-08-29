@@ -13,7 +13,13 @@
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1sn25TgE-h5SyRBbDdBxDg1RLMQ0R9szw" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-%23FF5722.svg?style=for-the-badge&logo=pdf&logoColor=white" alt="Download CV">
-  </a>
+<a href="a.betancourt92@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=e-mail&color=0078D4&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail">
+</a>
+
+    
+</a>
+
 </p>
 </div>
 
