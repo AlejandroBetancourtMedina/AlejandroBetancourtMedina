@@ -29,12 +29,12 @@
 <div>
   <h2>👋 <strong>Algunas cosas sobre Mí</strong></h2>
     <ul>
-      <li>Realize mi práctica profesional como Desarrollador Backend en GLOBANT, Chile .</li>
+      <li>Realice mi práctica profesional como Desarrollador Backend en GLOBANT, Chile .</li>
       <li>Me gusta el desarrollador Backend.</li>
       <li>Me gusta Java con el framework de Spring Boot.</li>
       <li>He podido trabajar en gran parte con bases de datos relacionales, la que mas he usado es PostgreSQL.</li>
-      <li>Estudiante de Ingenieria Informatica</li>
-      <li>Estudiante de "Oracle Next Education -G7", Especializacion Backend Java Spring Boot</li>
+      <li>Estudiante de Ingeniería Informática</li>
+      <li>Estudiante de "Oracle Next Education -G7", Especialización Backend Java Spring Boot</li>
     </ul>
 </div>
 </br>
