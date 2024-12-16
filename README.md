@@ -34,7 +34,9 @@
       <li>Me gusta Java con el framework de Spring Boot.</li>
       <li>He podido trabajar en gran parte con bases de datos relacionales, la que mas he usado es PostgreSQL.</li>
       <li>Estudiante de Ingeniería Informática</li>
-      <li>Estudiante de "Oracle Next Education -G7", Especialización Backend Java Spring Boot</li>
+      <li>Desarrollador PHP 8.1, Laravel v10. y Livewire v3.5</li>
+      <li>Desarrollo aplicaciones de Escritorio con C# </li>
+      
     </ul>
 </div>
 </br>
