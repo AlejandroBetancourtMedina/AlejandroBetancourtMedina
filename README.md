@@ -36,8 +36,6 @@
       <li>Estudiante de Ingeniería Informática</li>
       <li>Desarrollador PHP 8.1, Laravel v10. y Livewire v3.5</li>
       <li>Desarrollo aplicaciones de Escritorio con C# </li>
-      
-    </ul>
 </div>
 </br>
 <div>
