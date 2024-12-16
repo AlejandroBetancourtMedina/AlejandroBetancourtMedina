@@ -53,11 +53,7 @@
   </p>
 </div>
 </br>
-<div>
-  <p align="center">
-    <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroBetancourtMedina&layout=compact />
-  </p>
-</div>
+
 
 
 
